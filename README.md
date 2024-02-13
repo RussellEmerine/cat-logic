@@ -11,7 +11,7 @@ a course taught by [Professor Steve Awodey](https://awodey.github.io/).
 * Define algebraic theory
 * Define model of an algebraic theory in a category with finite products
 * Prove that a model of the trivial algebraic theory in a category is equivalent to the category itself
-* Prove that a model of the trivial 
+* Prove that a model of the correct algebraic theory in the category of types is equivalent to pointed types
 
 ## Todo
 
