@@ -1,7 +1,7 @@
 # Categorical Logic! 
 
-Based on (the lecture notes)[https://awodey.github.io/catlog/notes/] from CMU 80514,
-a course taught by (Professor Steve Awodey)[https://awodey.github.io/].
+Based on [the lecture notes](https://awodey.github.io/catlog/notes/) from CMU 80514,
+a course taught by [Professor Steve Awodey](https://awodey.github.io/).
 
 ## Done
 
